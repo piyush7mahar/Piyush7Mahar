@@ -1,24 +1,41 @@
 <div align="center">
 
-# `> PIYUSH_MAHAR`
+<br>
 
-### `[ SOFTWARE DEVELOPER // B.TECH STUDENT ]`
+# `PIYUSH MAHAR`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=INITIALIZING+DEVELOPER+PROFILE...;C+%3A%3A+PYTHON+%3A%3A+WEB;BUILD+%3E+TEST+%3E+LEARN+%3E+REPEAT;SYSTEM+STATUS+%3A%3A+LEARNING" />
+### SOFTWARE DEVELOPER
+
+`C` &nbsp;&nbsp; `PYTHON` &nbsp;&nbsp; `WEB DEVELOPMENT`
 
 <br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-0B0910?style=for-the-badge&labelColor=171020&color=6D4AA5" />
-<img src="https://img.shields.io/badge/BUILD-LEARNING-0B0910?style=for-the-badge&labelColor=171020&color=6D4AA5" />
-<img src="https://img.shields.io/badge/MODE-DEVELOPMENT-0B0910?style=for-the-badge&labelColor=171020&color=6D4AA5" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3500&pause=1200&color=9F7AEA&center=true&vCenter=true&width=600&lines=Building+with+purpose.;Learning+through+development.;Improving+one+commit+at+a+time." />
 
-<br><br>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09070D,20:181020,50:422263,80:181020,100:09070D&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09070D,30:171020,50:6D4AA5,70:171020,100:09070D&height=2" width="85%"/>
+
+<br>
 
 </div>
 
-## `// 01 :: SYSTEM_PROFILE`
+## `ABOUT`
 
-```text id="3g6ym4"
-USER        :: P
+B.Tech student focused on **software development, programming fundamentals and web technologies**.
+
+I build projects to understand systems beyond the surface — strengthening my fundamentals, improving problem-solving, and learning to write cleaner software.
+
+Currently working primarily with **C, Python, HTML and CSS** while progressing toward data structures, algorithms and full-stack development.
+
+<br>
+
+## `TECHNOLOGIES`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,python,html,css,git,github,vscode&theme=dark" />
+
+<br><br>
+
+`C` &nbsp
