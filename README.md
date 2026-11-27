@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💜 Hey, I'm Piyush Mahar
+#  Hey, I'm Piyush Mahar
 
 ### Developer • B.Tech Student • Building & Learning 🚀
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🪻 About Me
+##  About Me
 
 ```python
 piyush = {
@@ -19,19 +19,19 @@ piyush = {
     "interests": ["Programming", "Web Development", "Technology"],
     "languages": ["C", "Python", "HTML", "CSS"],
     "currently_learning": "Full Stack Development",
-    "goal": "Build cool things that actually work 🚀"
+    "goal": "Build cool things that actually work "
 }
 ```
 
-- 🎓 B.Tech Student
-- 💻 Passionate about programming and technology
-- 🌱 Currently learning **C, Python & Web Development**
-- 🛠️ Love experimenting with new technologies
-- 🚀 Building projects and improving every day
+-  B.Tech Student
+-  Passionate about programming and technology
+-  Currently learning **C, Python & Web Development**
+-  Love experimenting with new technologies
+-  Building projects and improving every day
 
 ---
 
-## 💜 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
