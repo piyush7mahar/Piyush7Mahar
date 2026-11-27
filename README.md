@@ -2,7 +2,7 @@
 
 #  Hey, I'm Piyush Mahar
 
-### Developer • B.Tech Student • Building & Learning 🚀
+### Developer • B.Tech Student • Building & Learning 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C8A2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;C+%7C+Python+%7C+Web+Development;Learning.+Building.+Improving.;Turning+Ideas+Into+Code+%F0%9F%92%9C" />
 
